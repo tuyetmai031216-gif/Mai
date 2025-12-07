@@ -1,0 +1,7 @@
+{
+  "name": "FinanceAI - Quản lý tài chính",
+  "description": "Ứng dụng theo dõi thu chi cá nhân thông minh tích hợp AI để phân tích và nhập liệu nhanh chóng.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
